@@ -1,0 +1,15 @@
+.main-wrapper-clr{
+    width: 75px;
+    height:75px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    border: none;
+    outline:none;
+    margin: 6px;
+    background-color: rgb(235, 12, 12);
+    
+}
