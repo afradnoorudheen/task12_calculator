@@ -1,3 +1,5 @@
+DEPLOYED IN NETLIFY - https://condescending-jones-4d1e3c.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
